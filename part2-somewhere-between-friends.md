@@ -763,4 +763,398 @@ Sara repeated the name quietly. "Tasogare."
 
 Gojo looked toward the shrine gate, the charcoal blindfold hiding his eyes, though his soft smile was clear. "A place where boundaries blur."
 
-"
+"That's actually a pretty good name for a place like this."
+
+"Right?" He looked ahead again. "And at sunset, it makes even more sense."
+
+The conversation moved on, easy as anything, like it hadn't landed on anything in particular.
+
+At the top, she needed a minute before anything else \- hands on her knees, lungs working overtime. Gojo, insufferably, wasn't even breathing hard.
+
+\---
+
+Once she'd recovered, they stepped up to the shrine itself. Sara clapped, bowed, and prayed for the obvious things \- her health, her research going somewhere, a good life in this city she'd barely started understanding. Nothing more complicated than that.
+
+Afterwards, sitting on the worn wooden steps while the light softened around them, she found herself studying the roofline, the joints, the way the whole structure braced itself into the hillside.
+
+"You'd never see eaves this shallow back home," she said, half to herself. "Korean temples curve up dramatically at the corners, like they're reaching for something. This is flatter. Built to bow against the rain instead of fighting it." She paused. "Sorry. I'm lecturing."
+
+"You are," Gojo agreed.
+
+"You're humouring me."
+
+"I'm listening. There's a difference." He tilted his head toward the structure. "What about the foundations? Same logic?"
+
+She blinked at him. "You actually want to know?"
+
+"I asked, didn't I?"
+
+So she kept going \- longer than she meant to, probably \- and he asked one or two real questions in the middle of it, which mattered more than any amount of polite nodding would have.
+
+She was midway through comparing timber joinery techniques when she realized he'd started humming. Low. Tuneless at first. Then unmistakably a melody.
+
+She blinked. "Wait \- is that BTS?"
+
+"I have no idea what you're talking about. I'm humming. Completely unrelated activity."
+
+"That is literally IDOL. You remembered\!"
+
+"40% retention, remember? Some of it apparently stuck."
+
+She shoved his shoulder, laughing, and the architecture lecture dissolved into something lighter.
+
+By the time they found the viewpoint past the shrine proper, the sun was most of the way down, the sky doing something spectacular and orange over the rooftops of a city she still hadn't fully learned the shape of.
+
+Sara took pictures \- too many, probably \- the hairpin's small beads catching the last of the light every time the wind moved through them.
+
+"Come here," she said, holding up her phone. "One more."
+
+Gojo leaned in, blindfold and all, and she caught both of them in the frame \- her hairpin, his easy smile, the sunset behind them doing most of the emotional work neither of them had said out loud.
+
+She looked at the photo for a second longer than she needed to, and for some reason, didn't delete it the way she usually deleted most selfies.
+
+"Good one," she said.
+
+"Obviously. I'm in it."
+
+She laughed and didn't argue.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. If you have read my previous chapters, you would notice that I have currently made a small change in my pacing style within the chapter.
+
+I will be publishing 2 chapters every week \- on Tuesday and/or Wednesday around 8 PM UTC every week.
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# **Chapter 8 \- Not Everyone**
+
+(Satoru's POV)
+
+The breeze picked up right as the sun gave up its last real argument for staying, and the little beads on her hairpin swung with it, catching what was left of the light.
+
+Satoru watched them for a second longer than the view really warranted.
+
+She'd dressed for this as it mattered \- the hanbok-inspired top, the careful modesty of it, nothing flashy, nothing that looked like she'd grabbed it off the floor. Most people treated an old shrine like a photo backdrop. She'd treated it like a place you showed respect to. He hadn't told her to. She'd just done it, the way she did most things, without making a production of the decision.
+
+Noted, he thought, filing it away with everything else he'd been filing away since the sidewalk two weeks ago.
+
+\---
+
+They started down the stairs as the light properly failed, lanterns picking up the slack along the path.
+
+"Question," Satoru said. "Morning person or night owl?"
+
+"Why do you ask?"
+
+"You slept until two in the afternoon today."
+
+"That was a hangover. Those are different categories."
+
+"Are they?"
+
+"Yes." She exhaled, the sound of someone replaying a week she hadn't fully recovered from. "You want to know the actual answer? My course is nothing like I thought it'd be. I expected to start with baby steps, but they asked about my interests and pushed me straight into the real project. I got assigned to a lab and a professor who asks three questions and somehow makes you feel examined without raising his voice once. Everyone in that seminar treats disagreement like a sport. Just thinking about it, I couldn't sleep properly for the first three nights ."
+
+"Sounds like a delightful man."
+
+"He's fine. He's just \- rigid. In a way I wasn't expecting." A small laugh. "So by Friday, when everyone wanted to go drinking after zemi, I thought, why not. And then I thought it again after the first round. That was the mistake."
+
+"The nomikai."
+
+"The nomikai." She shook her head. "At least I've got a decent roommate. Could've been worse."
+
+"Does this decent roommate have a name, or do I just keep calling her 'the roommate'?"
+
+"Mei."
+
+"Noted."
+
+She didn't offer much about herself without being asked; he was noticing. When she did, it came out sideways, folded into something else.
+
+\---
+
+They stopped where the stairs widened into a landing, an old bench nobody used sitting off to one side. Sara dropped onto it, legs clearly grateful for the mercy.
+
+A piece of ash drifted down from somewhere \- a nearby lantern, maybe, or just the air doing what autumn air did \- and landed near his jaw.
+
+She reached up without thinking about it \- an automatic gesture, the kind that didn't ask permission because it never occurred to her that it needed any. He watched her hand come toward his face and did not move.
+
+Her fingers caught the edge of the blindfold instead.
+
+Barely a graze. Just the fabric, just the corner of it. Light enough to be mistaken for nothing at all.
+
+Except it wasn't nothing.
+
+Satoru's reflexes were built to register a threat faster than conscious thought could keep up \- faster than most people's eyes could even track the motion. Some older, simpler instinct should have turned his head an inch to the side before her fingers ever got close enough to matter. People who'd known him for years, people he'd trusted with his life, had gone that whole time without laying a hand on this thing. It wasn't modesty. It was the one boundary that stayed absolute, no exceptions, because what sat behind it wasn't something anyone needed to see.
+
+He didn't move.
+
+For a second that felt considerably longer than a second, there was only the warmth of her fingers against fabric. Then his hand came up and closed around her wrist, just as she'd begun to pull it back on her own \- not to stop her, really, just to hold the moment somewhere he could look at it properly before it disappeared. Under his thumb, her pulse gave one quick, startled flutter.
+
+Not everyone gets this close, he thought, watching her realize, a half-second too late, exactly what she'd done. You didn't even notice you were the exception.
+
+"Careful," he said, and the word came out lower than the joke it was supposed to be.
+
+"Sorry \- there was ash; I wasn't thinking \- "
+
+"I know." He let go, easy, as it cost him nothing. "Didn't peg you for the handsy type, Ms Kang."
+
+She pulled her hand back as it had acted without her permission, which, as far as he was concerned, it kind of had. For the rest of the descent she was very interested in her own footing, cheeks doing something she probably thought wasn't visible in lantern light.
+
+It was.
+
+He didn't push it. Didn't make her explain herself twice. Just let the quiet sit until it got tired of itself.
+
+\---
+
+The restaurant was small, tucked a few streets from the station \- the kind of place that had clearly been serving the same handful of dishes since before either of them existed.
+
+"Do you come here often?" Sara asked, looking over the menu.
+
+"Sometimes. Food's good, nobody bothers me."
+
+"Because of the blindfold?"
+
+"Because I'm charming."
+
+"Right."
+
+They ordered the grilled saury \- a whole fish, skin charred dark off the grill, served with rice, miso soup, and a mound of grated white radish on the side. Sara took her first bite carefully, clearly braced for bones, and went quiet the way she did when something was better than expected.
+
+"Oh. The skin's really crisp."
+
+"That's the idea."
+
+By the time they were halfway through, most of the awkwardness from the stairs had burned off on its own.
+
+It was somewhere around the second helping of pickles that she finally asked the thing she'd clearly been sitting on.
+
+"Okay. Genuine question." She pointed her chopsticks at him. "Not why you wear it, I already know I'm not getting that. How do you actually see anything? Does it just stay dark the whole time?"
+
+"That's classified."
+
+"Everything's classified with you."
+
+"Only the interesting parts." He leaned back. "Short answer \- I see plenty. Just not the way you'd think."
+
+"That's not an answer. That's a riddle wearing an answer's clothes."
+
+"Accurate description, actually."
+
+She narrowed her eyes at him, clearly unsatisfied, and he let the smile hold without giving her anything further. When the dessert menu came around, he ordered without consulting her \- warabi mochi, soft jelly cubes dusted in roasted soybean flour.
+
+"Is everything in this country required to jiggle?"
+
+"Apparently. It's a national law."
+
+She ate it anyway, unconvinced right up until the first bite, after which she stopped arguing entirely.
+
+There was no clock to watch tonight. No gate locking itself at ten. She seemed to notice its absence somewhere around her tea, the shape of an evening that didn't have anywhere urgent to end.
+
+\---
+
+"I've been thinking," Satoru said, once they'd settled the bill, "about your complaint from earlier."
+
+"Which one. I had several."
+
+"The travel one. No lift, no train map, an hour each way on a hangover."
+
+"A valid complaint."
+
+"Extremely valid. So." He gestured toward the street, where he'd already flagged down a cab. "Door to door this time. Compensation."
+
+"You didn't have to do that."
+
+"I know. Get in anyway."
+
+They took a short stroll past the now-quiet lantern street first, the stalls mostly shuttered for the night, before the cab pulled up and they climbed in. It was a longer ride than the walk up had felt, the city sliding by dark and unhurried outside the window.
+
+"So," Sara said, somewhere past the first few minutes of quiet. "Where do you actually live? Like \- what area?"
+
+"Why, planning to move in?"
+
+"I'm planning logistics. I've been dragged to three different corners of this city for you now, and I still don't know where you're starting from. I'd like it if next time we met somewhere in the middle, for once."
+
+"Reasonable."
+
+"So. Area."
+
+"Tokyo," he said. "Somewhere in it."
+
+"That's not an area. That's the entire city."
+
+"It's a big city."
+
+She gave him a look that could have stripped paint. He offered nothing further, entirely unbothered.
+
+"Fine," she said eventually. "Keep your secrets. But next time, middle ground. I mean it."
+
+"Deal."
+
+She didn't push past that. He noticed that about her too \- she asked, and when the answer came back thin, she let it stay thin, rather than treating the question as something she was owed a fuller version of. He wasn't sure yet what to do with the fact that he noticed.
+
+\---
+
+The cab let them off a short walk from the dorm, and he walked her the rest of the way out of habit more than necessity.
+
+"Thank you for today," she said. "All of it. Even the stairs."
+
+"Especially the stairs."
+
+"Goodnight, Gojo."
+
+"Goodnight, Sara."
+
+She went inside, and for once, nobody was timing it.
+
+He didn't usually bring people up to Tasogare. Hadn't, in all the years since he'd first found it. He didn't examine too closely why today had been the exception.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. If you have read my previous chapters, you would notice that I have currently made a small change in my pacing style within the chapter.
+
+I will be publishing 2 chapters every week \- on Tuesday and/or Wednesday around 8 PM UTC every week.
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# **Chapter 9 \- You still have the Hairpin?**
+
+After a long day and four floors of stairs, Sara collapsed onto her bed. She glanced around. Mei wasn't in the room. While she replayed how the day had gone, sleep crept up on her, the heavy, dreamless kind that follows too many stairs.
+
+Except it wasn't dreamless.
+
+\---
+
+*Oh, what is this weather? I don't remember coming here, but it looks so whimsical.*
+
+The first thing Sara notices is the sky.
+
+It looks as though the sun has dipped its brush in a few of its favourite shades, apricot and rose and a whisper of lilac, painted them across the canvas of the evening, and wandered off without washing the brush. Beneath it, a lane runs between wooden shopfronts, strung with lanterns in uneven, drifting rows, each one glowing the soft orange of a candle behind paper. Autumn leaves tumble along the stones in no hurry at all. The trees sway as if they're listening to a song only they can hear, and the air smells sweet, with something warm and smoky underneath. Roasted chestnuts.
+
+*What is this cluttered yet peaceful place?*
+
+The lane is busy, and everyone is dressed in traditional clothes, kimono and yukata drifting past like slow, bright fish.
+
+*Why is everyone in traditional dress?*
+
+Then a sleeve brushes her arm, and she looks down.
+
+*Am I wearing a kimono? I don't even own one.*
+
+It's lovely, cream at the shoulders fading into soft yellow at the sleeves, with a brown sash cinched at her waist. Her hand rises to her hair and finds small yellow flowers tucked into her bun.
+
+A sudden glint of light catches her eye from the corner, where a little shop spills lamplight across the stones. Mirrors. Round ones, tall ones leaning against the walls, hand mirrors with lacquered handles hanging in rows, every one of them holding a piece of lantern glow so the whole shop shines like the inside of a lamp. Sara steps in to check herself.
+
+*Who is that?*
+
+The girl in the mirror has a light blush on her cheeks, glossy lips, and a perfect bun crowned with yellow flowers, like a buttercup that has learned to walk. Sara tilts her head. The girl tilts hers.
+
+*Is that really me? I've never looked like this.*
+
+She smiles, and the girl smiles back.
+
+*Oh. I'm pretty.*
+
+A small bag with tassels dangles from her wrist. Inside, a handful of coins.
+
+*I have money\!*
+
+On a shelf near the door sits a small hand mirror with a crescent moon traced along its edge. *This one. I'll take it.*
+
+Outside, a stall sells strawberries on sticks, each wrapped in a shell of sugar as thin as glass.
+
+*Candied strawberries\!*
+
+She buys one. The sugar shatters crisply, and the berry underneath is cold and tart and sweet all at once.
+
+*Well, at least dinner is delicious.*
+
+A deep boom rolls down the lane. The crowd begins to drift in a single direction, faces tipped upward.
+
+*What was that sound? Where is everyone going?*
+
+Another boom. A glimmer of gold above the rooftops.
+
+*Fireworks\! They're starting a fireworks show\!*
+
+*"Ms Kang\!"*
+
+Sara turns. Above the crowd, a head of white hair and a tall figure making his way toward her.
+
+*Wait. Is that Gojo?*
+
+He steps out of the crowd in a black and red yukata, loose over one shoulder in a way his usual uniform never allows. The blindfold is still there, same as always.
+
+*He looks so handsome. I never thought a yukata could suit anyone this much.*
+
+*"Looking beautiful, Ms Kang."*
+
+It isn't a tease. There's no sarcasm wrapped around it, no banter. It sounds like he means it.
+
+His hand lifts toward the flowers in her bun and pauses at something among them. Wooden beads swing softly against her hair.
+
+*"You still have the hairpin I picked."*
+
+*I didn't even notice it was still there.*
+
+The first firework opens above them, and they turn toward it together. Red, then green, then blue, then gold, each burst unfolding like a flower in a night sky with a thin crescent moon, as if someone had scattered a rainbow across the dark.
+
+When Sara turns her head, Gojo is already looking at her, almost as if he's admiring her. Another boom. Their hands touch, and there it is, the same warmth she felt that first evening on the street, his thumb moving slowly across her palm.
+
+The warmth is the strangest part. Not the fireworks or the kimono or the fact that Gojo has appeared as if he'd stepped out of a storybook. It's how natural it feels to stand beside him, fingers brushing hers, watching colours bloom across the night.
+
+*Why am I getting butterflies from one small touch?*
+
+In the light of the fireworks, he looks as if he'd come down from the sky on a ladder of sparks.
+
+Then the crowd begins to surge. People press in from every direction, closer, faster.
+
+*Why is everyone rushing this way?*
+
+*"Hey, don't push me\!"*
+
+A shoulder. An elbow. The lane tilts like the deck of a ship. His hand slips out of hers, and her foot comes down on nothing at all \- 
+
+*"Ahh..."*
+
+\---
+
+Sara woke up on the floor beside her bed, rolled up in her blanket.
+
+*Oh. I fell off the bed.*
+
+It took her a moment to understand that it had been a *dream*. In all of it, she hadn't once wondered whether it was real.
+
+Across the room, Mei was fast asleep, snoring softly, undisturbed. Luckily, no one had seen her tumble out of bed in the middle of the night.
+
+For a second she just lay there, staring at the dark ceiling, her heart doing something embarrassingly specific.
+
+*It's been around a week,* she thought. *I've known him just for a week.*
+
+She pulled the blanket over her face, mortified at absolutely no one. She would think about why in the morning. Her hand was still curled, still faintly warm where his thumb had brushed her palm. She tucked it under the blanket, as if hiding it might make it forget, and was asleep before she could finish being embarrassed. 
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. I am trying to write the chapters whenever it is possible or I get time.
+
+I will be trying to publish 2 chapters every week \- on **Tuesday** and/or **Wednesday** around **8 PM UTC** **every week**.
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
