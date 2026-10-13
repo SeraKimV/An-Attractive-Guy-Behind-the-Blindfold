@@ -843,7 +843,7 @@ Satoru watched them for a second longer than the view really warranted.
 
 She'd dressed for this as it mattered \- the hanbok-inspired top, the careful modesty of it, nothing flashy, nothing that looked like she'd grabbed it off the floor. Most people treated an old shrine like a photo backdrop. She'd treated it like a place you showed respect to. He hadn't told her to. She'd just done it, the way she did most things, without making a production of the decision.
 
-Noted, he thought, filing it away with everything else he'd been filing away since the sidewalk two weeks ago.
+Noted, he thought, filing it away with everything else he'd been filing away since the sidewalk a week ago.
 
 \---
 
