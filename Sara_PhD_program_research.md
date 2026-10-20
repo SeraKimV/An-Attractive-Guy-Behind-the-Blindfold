@@ -1,3 +1,29 @@
+# Sara's PhD Program: Research Notes (updated for story use)
+
+> **Role of this file:** real-world research the author gathered to keep Sara's academic and student life accurate. It is **reference material, not canon.** If anything here disagrees with `story-bible.md`, the bible wins.
+>
+> **Last revised:** October 2026. The Q&A below is unchanged. The only additions are this section and the inline notes marked **STORY NOTE**.
+
+## Story Application Notes (NEW)
+
+### What from this research is already on the page
+
+* **Ch 6:** Sara's first days in the Department of Civil Engineering; a lab on an upper floor with six other graduate students; Professor Hayashi's three sharp questions; her interest in "places where water doesn't just happen once", meaning sediment during inundation and retreat; her first zemi; the Namboku Line commute from Shirokane-takanawa to Todai-mae.
+* **Housing:** a guesthouse first, then a shared double room at Shirokane on the Wednesday of her first week. Dorm security staff at the lobby counter stopped Gojo and Yuji, and boxes were passed over the counter.
+* **Ch 7:** a Friday zemi followed by her first nomikai.
+
+### Where the story has moved past this research
+
+1. **Roommate.** Q7 and Q8 suggest a Japanese Art History or Public Policy roommate. The story uses **Mei**, a Singaporean modern-arts PhD student. That supersedes the suggestion.
+2. **Research and plot.** Q10 and Q11 are no longer just background. They now drive the plot: Phase 3 of her methodology (post-event field reconnaissance) is where Sara finds the Sukuna-linked object at the **end of Part III**. See "Engineering / Fieldwork Arc" in `story-bible.md`.
+3. **Field site (deferred).** The exact site is undecided. The author will choose and check it when that chapter is reached, and her thesis stays "Tohoku coast". One idea, not a decision: the Miyagi coast / Sendai Plain, where sand deposits from the 869 AD Jogan tsunami are well documented. The geology here is from general knowledge and has not been re-checked.
+4. **Zemi (resolved).** In week one Sara attended two zemi sessions (Tuesday in Ch 6, Friday in Ch 7), both of them presentations by her seniors and co-lab-mates. From week two she starts presenting herself. This fits the sample schedule in Q2: a Tuesday seminar and advisor check, Thursday prep, and the Friday lab zemi with a casual dinner afterwards.
+5. **Thesis pressure as texture (PROPOSED).** The PhD needs 10 credits and two or three first-author papers. As the dream and mirror arc intensifies, Sara's thesis progress can plausibly slip, and Hayashi noticing is a natural small beat. It also gives the "only weekends are free" note in Part IV a real cause.
+6. **Fieldwork logistics (PROPOSED).** Field trips are group trips with Hayashi and senior students, possibly overnight, which explains Sara being away from Tokyo and from Gojo. They should not be solo trips.
+7. **Finds and reporting (to verify).** In Japan, archaeological finds are normally reported to the local board of education and cultural-heritage authorities. Decide where the jar is held afterward so Sara stays near it.
+
+---
+
 Q1 - how would the 1st day as an international PhD student look like?
 
 The first day for an international PhD student at a Japanese university like UTokyo is less about formal classroom orientation and almost entirely about **physical lab integration, administrative paperwork, and setting up daily life logistics**.
@@ -323,6 +349,11 @@ Japanese university dormitories handle supervision slightly differently than tra
 * **Security & Access Control:** All facilities use electronic keycards, auto-locking main gates, and CCTV surveillance at entrances and common lobbies to maintain security without requiring a live-in warden inside the hallways.
 
 ---
+> **STORY NOTE (Oct 2026):** the story uses no warden character. In Ch 6 it is dorm security staff at the lobby counter who refuse Gojo and Yuji entry, consistent with the resident-association and building-manager structure described above.
+
+---
+
+
 
 Q7 - and as u said, double sharing rooms are present right, will both the students in a room/wing be from same department or same course or will they be a mix of PhD, M.Tech, Undergrad, etc.?
 
@@ -353,6 +384,11 @@ Room pairing in Japanese university dormitories like UTokyo’s **is a complete 
 
 * **Shirokane Female Dormitory:** Shared double rooms with shared common facilities.
 * **Main UTokyo International Lodges (Mejirodai, Oiwake, Komaba, Toshima):** The vast majority of standard international student rooms offered via OSTA are **private single studio rooms** (with your own private desk, bed, unit bathroom, and micro-kitchenette), while sharing larger lounge/laundry areas on the floor wing with a mixed group of graduate and undergraduate students from various faculties.
+> **STORY NOTE (Oct 2026):** Sara's roommate is Mei, a Singaporean modern-arts PhD student (see `story-bible.md`, "Supporting Characters"), not a Japanese student. She stays a civilian and is never told about curses.
+
+---
+
+
 
 Q8 - I am researching about this because, I wanted to know about all the specifics before I continue writing my fanfic and the charecter of sara.
 
@@ -466,6 +502,11 @@ To naturally tie into your plot point (*water repeatedly surfacing/exposing some
 
 
 ---
+> **STORY NOTE (Oct 2026):** the "natural discovery" described above is the plan. The object is now one half of a mirror that served as a medium for Sukuna, sealed in a porcelain jar. Sara finds it during post-event reconnaissance at the end of Part III, after a surge or drawdown exposes it at an estuary field site. The other half was buried beneath a temple in South Korea. See `story-bible.md`, "Cursed Object".
+
+---
+
+
 
 Q11 - Write a formal research summary for Sara's UTokyo PhD proposal on coastal sediment transport and inundation dynamics.
 # Graduate School of Engineering, The University of Tokyo
@@ -534,3 +575,6 @@ Standard coastal protection models often treat bed elevation as a static paramet
 3. **Subsurface Profiling:** A standardized protocol for rapid post-disaster bathymetric and topsoil exposure mapping in estuaries and coastal inundation belts.
 
 ---
+
+
+> **STORY NOTE (Oct 2026):** the proposal text above names Japan's Sanriku and Tohoku coastlines. The story can keep that wording. The exact field site is deferred until that chapter is written; whichever site is chosen, the title and abstract do not need to change.
