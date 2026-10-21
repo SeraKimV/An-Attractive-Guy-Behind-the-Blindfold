@@ -875,12 +875,12 @@ Taken from the author's research (`Sara_PhD_program_research.md`, the sample wee
 
 # Overall Story Structure (REVISED)
 
-Current working structure is six parts. The original plan was **27–28 chapters**; the revised plan will probably run longer, mainly because Part III now covers a month. The exact number should NOT be rigidly locked until the actual scenes are written.
+Current working structure is six parts. The original plan was **27–28 chapters**; the revised plan will probably run longer, mainly because Part III now covers around 3 weeks . The exact number should NOT be rigidly locked until the actual scenes are written.
 
 ## Pacing and Time Span (NEW) · DECIDED
 
 * **Parts I and II cover about one week**: from Sara and Gojo's first meeting on a Friday evening to the first dream on the following Saturday night.
-* **Part III covers about three weeks (a Sunday, two quiet weeks, then a Saturday meetup).** of Sara's life in Tokyo. It should read as a long, warm stretch, while Sara's hectic PhD work keeps the month moving.
+* **Part III covers about three weeks** of Sara's life in Tokyo (a Sunday, two quiet weeks, then a Saturday meetup). It should read as a long, warm stretch, while Sara's hectic PhD work keeps the weeks moving.
 * The first six chapters are dense because first meetings are dense. The relationship needs room to grow before the mystery gets a grip. Part III is where it gets that room.
 * **PROPOSED season map:** the story opens in late September 2018. Part III runs through October (autumn leaves, festivals, chestnuts) and ends with a late-season typhoon surge. Parts IV–VI run into November and beyond; the Korea trip could sit in winter. **OPEN.**
 
@@ -1186,7 +1186,7 @@ To reinforce the theme “Everyone sees Gojo, the Strongest; Sara slowly sees Sa
 ## Timeline Update Notes (NEW)
 
 * **Elapsed time so far:** Ch 1 (a Friday evening) to Ch 9 (the following Saturday night) is about eight days.
-* **Part III** covers roughly the following month. **PROPOSED:** late September to late October 2018, ending with a late-season typhoon surge on the coast.
+* **Part III** covers roughly the following 3 weeks. **PROPOSED:** late September to late October 2018, ending with a late-season typhoon surge on the coast.
 * Sara's dorm move-in falls inside the usual late-September window for an autumn intake, which fits Ch 6.
 * **Kyoto Goodwill Event:** still undecided. It may happen later in 2018 or be delayed to the following year. If it falls inside Parts III–V it needs to be woven around the main plot; otherwise it can sit after Part VI.
 * **Shibuya Incident:** delayed to 2021. Do not reference it in the story, and do not put in-text dates that contradict this.
