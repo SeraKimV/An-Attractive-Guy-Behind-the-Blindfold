@@ -15,12 +15,15 @@
 ### Where the story has moved past this research
 
 1. **Roommate.** Q7 and Q8 suggest a Japanese Art History or Public Policy roommate. The story uses **Mei**, a Singaporean modern-arts PhD student. That supersedes the suggestion.
-2. **Research and plot.** Q10 and Q11 are no longer just background. They now drive the plot: Phase 3 of her methodology (post-event field reconnaissance) is where Sara finds the Sukuna-linked object at the **end of Part III**. See "Engineering / Fieldwork Arc" in `story-bible.md`.
+2. **Research and plot.** Q10 and Q11 are no longer just background. They now drive the plot: Phase 3 of her methodology (post-event field reconnaissance) is where Sara finds the Sukuna-linked object at the **start of Part IV (Ch 16)**. See "Engineering / Fieldwork Arc" in `story-bible.md`.
 3. **Field site (deferred).** The exact site is undecided. The author will choose and check it when that chapter is reached, and her thesis stays "Tohoku coast". One idea, not a decision: the Miyagi coast / Sendai Plain, where sand deposits from the 869 AD Jogan tsunami are well documented. The geology here is from general knowledge and has not been re-checked.
-4. **Zemi (resolved).** In week one Sara attended two zemi sessions (Tuesday in Ch 6, Friday in Ch 7), both of them presentations by her seniors and co-lab-mates. From week two she starts presenting herself. This fits the sample schedule in Q2: a Tuesday seminar and advisor check, Thursday prep, and the Friday lab zemi with a casual dinner afterwards.
+4. **Zemi (resolved).** In week one Sara attended two zemi sessions (Tuesday in Ch 6, Friday in Ch 7), both of them presentations by her seniors and co-lab-mates. From week two she starts presenting herself; her first presentation lands in Ch 12. This fits the sample schedule in Q2: a Tuesday seminar and advisor check, Thursday prep, and the Friday lab zemi with a casual dinner afterwards.
 5. **Thesis pressure as texture (PROPOSED).** The PhD needs 10 credits and two or three first-author papers. As the dream and mirror arc intensifies, Sara's thesis progress can plausibly slip, and Hayashi noticing is a natural small beat. It also gives the "only weekends are free" note in Part IV a real cause.
 6. **Fieldwork logistics (PROPOSED).** Field trips are group trips with Hayashi and senior students, possibly overnight, which explains Sara being away from Tokyo and from Gojo. They should not be solo trips.
 7. **Finds and reporting (to verify).** In Japan, archaeological finds are normally reported to the local board of education and cultural-heritage authorities. Decide where the jar is held afterward so Sara stays near it.
+8. **Fieldwork on a Monday (DECIDED).** In Ch 16 the field survey happens on a Monday. The sample weekly schedule has "Fieldwork / Numerical Modeling" in the Monday afternoon slot, so a field trip simply replaces it. Hayashi assigns it earlier (plant it in Ch 12–13).
+9. **Site halted (DECIDED, details to verify).** After the find, her team treats the mirror as an old artifact and site work is halted as a possible heritage find. This ties to note 7: reporting to the local board of education, and where the jar is held afterward, still need to be decided.
+10. **Nomikai (DECIDED).** The Ch 17 nomikai is the lab's monthly casual dinner and drinks, matching the "Lab Dinner / Casual Nomikai" Friday slot in the sample schedule. It is her second after Ch 7.
 
 ---
 

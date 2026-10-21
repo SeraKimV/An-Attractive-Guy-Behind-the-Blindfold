@@ -2,7 +2,7 @@
 
 > **What this file is:** the source of truth for characters, themes, arc structure and writing rules.
 >
-> **Last revised:** October 2026, after the Parts III–VI planning discussion. Sections that changed are tagged **(REVISED)**; sections that are new are tagged **(NEW)**. Anything untagged is the original text and still stands.
+> **Last revised:** 21st October 2026, after the Parts III–VI planning discussion. Sections that changed are tagged **(REVISED)**; sections that are new are tagged **(NEW)**. Anything untagged is the original text and still stands.
 >
 > **Labels used in this file**
 > * **DECIDED** — stated or approved by the author.
@@ -17,8 +17,9 @@
 | --- | --- | --- |
 | I — The Stranger | 1–4 | Written, closed |
 | II — Somewhere Between Friends + 1st Dream | 5–9 | Written. Ch 9 is the first dream and closes the part |
-| III — (retitle needed) | 10 → TBD | Next. Ch 10 opens with the morning-after fallout of the Ch 9 dream |
-| IV – VI | TBD | Planned; see **Overall Story Structure** |
+| III — The Sweetest Dreams | 10–15 | In progress. Ch 10 published. Pure slice of life and sweet romance; about three weeks |
+| IV — Beneath the Surface | 16–19 and possibly beyond | Planned. Opens with the flood-site discovery |
+| V – VI | TBD | Planned; see **Overall Story Structure** |
 
 Part II used to be planned as Ch 5–10. It now ends at Ch 9, so Part III starts at Ch 10.
 
@@ -177,7 +178,7 @@ We can also add a point that she learnt Japanese because she's very much into an
 
 ### Professor Hayashi — Sara's supervisor
 * Quiet, in his fifties, asks three sharp questions and makes a student feel examined without raising his voice (Ch 6). Sara finds him "rigid".
-* Story function: assigns the fieldwork that leads Sara to the mirror at the end of Part III.
+* **Story function**: assigns the fieldwork that leads Sara to the mirror at the start of Part IV (Ch 16). Plant the assignment in Ch 12 or 13 so it does not arrive from nowhere.
 
 ### Megumi and Nobara
 * Present in Ch 1, absent since. **PROPOSED:** Sara meets them properly during Part III, as one of the month's milestones.
@@ -400,7 +401,7 @@ Some chapters can simply make readers fall in love with the characters.
 
 * Sara's early dreams are **sweet and whimsical**. They read as a crush dream: a flustered, believable reaction to a guy she has known for about a week.
 * **A quiet hidden cause sits underneath** (her childhood "receiver" residue; see **Sara's Hidden Ability**). Neither Sara, Mei nor the reader needs to suspect it at first.
-* The dreams **do not become unsettling on their own.** They turn only after Sara touches the object at the end of Part III. Until then, no voice and no "continue".
+* The dreams **do not become unsettling on their own.** They turn only after Sara touches the object at the start of Part IV (Ch 16). Until then, no voice and no "continue".
 * When the object arrives, it does not invent a new channel. It **hijacks the sweet dream that already exists** and turns it against Gojo. Because dream-Gojo has been a safe place, the betrayal hurts more.
 * **Plant one or two dream details that are not Sara's.** Only in hindsight should the reader realise some of the "whimsical" dream was never hers.
 
@@ -440,7 +441,7 @@ Beats that matter:
 
 # Dream Escalation (REVISED)
 
-**Trigger: the object.** Escalation begins only after Sara touches the mirror at the end of Part III. It does not begin before.
+**Trigger: the object.** Escalation begins only after Sara touches the mirror in Ch 16 (start of Part IV). It does not begin before.
 
 ## Shape of the escalation · DECIDED (shape) / PROPOSED (specifics)
 
@@ -449,6 +450,7 @@ Part IV carries **two or three unsettling dreams**, in roughly this order:
 1. **The hijack (DECIDED).** The familiar dream starts the same way, then dream-Gojo turns cold. The warmth Sara has learned to rely on goes missing.
 2. **The attack (DECIDED).** In a later dream, Sara attacks Gojo. She does not choose to; she watches herself do it.
 3. **The blindfold dream (carried over from the original plan).** Sara tries to remove Gojo's blindfold. The scene is sad as well as frightening. A voice tells her to **continue**. She wakes up crying in reality.
+4. **Placement (DECIDED):** Ch 16 is the first dream after the touch: still sweet, her hand gently touches his blindfold, dream-Gojo is silent, and a different voice says "continue" repeatedly. Ch 18 is the first violent dream, with voices. Ch 17 sits between them as a calm, human chapter on purpose.
 
 Across the sequence the dreams also bring in:
 * places she should not know
@@ -602,7 +604,7 @@ After this:
 
 ## How the discovery works
 
-* **DECIDED:** it comes from her fieldwork, at the **end of Part III**, not from a staged excavation. It is found at a **flood-prone or tidal area after heavy flooding or rain**, uncovered by the water rather than dug up. Hayashi assigns the field survey, and Sara finds the object during it.
+* **DECIDED:** it comes from her fieldwork, at the **start of Part IV (Ch 16)**, on a Monday, not from a staged excavation. It is found at a **flood-prone or tidal area after heavy flooding or rain**, uncovered by the water rather than dug up. Hayashi assigns the field survey (planted in Ch 12–13), and Sara finds the broken vessel and the mirror during it. Light from the mirror hits her eyes and she faints. Her team calls it an old artifact and site work is halted as a possible heritage find.
 * **OPEN, deferred by the author:** the exact field site. The author will decide and check it when that chapter is reached. Her thesis stays "Tohoku coast". One idea, not a decision: the Miyagi coast / Sendai Plain, where sand deposits from the 869 AD Jogan tsunami are well documented in coastal-sediment research, which would put the object under a tsunami layer from Sukuna's own era (Heian). Check any geological detail before it goes on the page.
 * **PROPOSED mechanism:** a late-season typhoon surge, heavy flooding or an unusually deep drawdown scours an estuary or river-mouth trench and exposes a **sealed porcelain jar** (the author's wording) with the Japanese half of the mirror inside. Her GPR can pick up the anomaly first. **Realism:** true porcelain was not made in Japan until the early 1600s, imports aside, so a stoneware or celadon-type jar would be more period-accurate for a Heian-era object. Decide before writing.
 * Gojo is **not** there when she finds it.
@@ -641,7 +643,7 @@ Sukuna eventually becomes aware of her through the connection.
 
 * A **mirror** that was a **medium to Sukuna**.
 * It was **split into two parts**, and **each part was sealed inside a porcelain jar**.
-* **Part one** is found during Sara's fieldwork at the end of Part III (see **Engineering / Fieldwork Arc**).
+* **Part one** is found during Sara's fieldwork at the start of Part IV, in Ch 16 (see **Engineering / Fieldwork Arc**).
 * **Part two** was buried **below a temple in South Korea**, in Sara's hometown area.
 * Not a finger, and not a cloth.
 
@@ -866,6 +868,9 @@ Taken from the author's research (`Sara_PhD_program_research.md`, the sample wee
 * Thursday prep nights, Friday zemi and the Friday nomikai give the month a recognisable rhythm, so a reader can feel the weeks passing.
 * **OPEN:** how often she presents. The research says "every few weeks".
 
+* **DECIDED:** her first zemi presentation falls in Ch 12.
+* **DECIDED:** the Ch 17 nomikai is the lab's monthly dinner and drinks (casual, not strict). Ch 7's nomikai was her first, so this is her second.
+
 ---
 
 # Overall Story Structure (REVISED)
@@ -875,7 +880,7 @@ Current working structure is six parts. The original plan was **27–28 chapters
 ## Pacing and Time Span (NEW) · DECIDED
 
 * **Parts I and II cover about one week**: from Sara and Gojo's first meeting on a Friday evening to the first dream on the following Saturday night.
-* **Part III covers about one month** of Sara's life in Tokyo. It should read as a long, warm stretch, while Sara's hectic PhD work keeps the month moving.
+* **Part III covers about three weeks (a Sunday, two quiet weeks, then a Saturday meetup).** of Sara's life in Tokyo. It should read as a long, warm stretch, while Sara's hectic PhD work keeps the month moving.
 * The first six chapters are dense because first meetings are dense. The relationship needs room to grow before the mystery gets a grip. Part III is where it gets that room.
 * **PROPOSED season map:** the story opens in late September 2018. Part III runs through October (autumn leaves, festivals, chestnuts) and ends with a late-season typhoon surge. Parts IV–VI run into November and beyond; the Korea trip could sit in winter. **OPEN.**
 
@@ -912,34 +917,35 @@ Goal achieved: readers are invested in Sara and Gojo as friends who banter and h
 
 ---
 
-## **PART III — (working title needed)** · NEXT
+## **PART III — The Sweetest Dreams** · IN PROGRESS
 
-**Chapters 10 → TBD** (likely longer than the original five). **Span: about one month.**
+**Chapters 10–15 (6 chapters)** · **Span: about three weeks**
 
-(uni is running and PhD work builds; it ends with the fieldwork that leads to the object)
+Pure slice of life and sweet romance. The old title, "The Dreams", was dropped because the part is not scary. **Nothing is wrong yet.** The mirror discovery was moved out of this part into Part IV so that the title and the content match.
 
-Retitle: the old title, "The Dreams", no longer fits, because this part is mostly slice of life and cute romance. **OPEN.** A possible working title is *The Sweet Dream*.
+**DECIDED chapter plan**
 
-**DECIDED content**
+* **Ch 10 (Sara) — published.** "Things I Didn't Write Down". Pre-dawn monologue, diary, Mei chat, evening texts with Gojo. Gojo did not warn her he would be busy.
+* **Ch 11 (Gojo).** His Sunday monologue: what he knows about Sara and how she thinks of him. Banter with Yuji and Megumi at school. His side of the Ch 10 chat.
+* **Ch 12 (Sara).** Bits of the dream, slice of life, her first zemi presentation. Gojo goes silent for a week and does not reply. Another dream. Plant Hayashi's fieldwork assignment.
+* **Ch 13 (Sara).** The dream continues; she is flustered by dream-Gojo's sweetness. Two weeks without a reply (Yuji is silent too). Then Gojo replies that he was busy with work, and they plan to meet on Saturday.
+* **Ch 14 and Ch 15 (Gojo; Ch 14 split in two).** What happened during the absence (a mission; kept vague, in monologue). The Saturday meetup. Sara is flustered from the dream. Gojo senses her energy reacting, quietly kills a curse nearby, and sees her cold sweats, heat and sneezing (only if funny). A sweet note. Yuji joins them for dinner. The part ends warm and soft.
 
-* Ch 10 opens with the morning after the Ch 9 dream: Sara wakes flustered and writes the dream in her notebook over breakfast.
-* The dream recurs, with variations, for about a week and then on and off. Sara moves from flustered to enjoying it. See **Dream Mystery**.
-* She is flustered when she meets Gojo after a dream. **She does not tell him.** The reader knows; he does not.
-* Mostly slice of life and cute romance, with her hectic work moving the month along.
-* The relationship grows well beyond "friends who banter".
-* The part **ends** with Hayashi assigning the coastal fieldwork and Sara finding the Sukuna-linked object during it. It feels strangely warm. She does not know what it is. (A mirror sealed in a jar; see **Cursed Object**.) Her week-by-week routine is in **Sara's Weekly Rhythm**.
+**DECIDED details**
 
-**PROPOSED milestones for the month** (use some, not all)
+* The dream stays sweet throughout. Sara does not tell Gojo about it. The reader knows; he does not.
+* Gojo does not show suspicion of her ability in this part. His tracking of her is revealed in Part IV.
+* Her reaction in Ch 14–15 is the "receiver" residue responding to emotion (made explicit in his POV). It is a mild reaction and not the object-driven shift of Part IV.
+* She is not possessed and has not touched the object.
+* Sneezing as a curse reaction is allowed only if it stays funny and does not derail the tone.
+* Mei, the lab and the zemi stay as backdrop, so Sara has a life of her own.
 
-* A first deliberate hand-hold (the accidental contacts so far: fingers over kikufuku, the catch at Mitaka, the arm grab at the arcade, the hairpin, the wrist grab at Tasogare)
-* A festival or autumn-market outing that echoes the dream (and unsettles Sara in a small, funny way)
-* Sara meets Megumi and Nobara
-* One small misunderstanding or quiet fight
-* Gojo disappears on a mission for a few days and Sara notices how much he is missed
-* Gojo's guard slowly cracks: where he lives, a glimpse of his real job
-* A short Satoru-POV chapter with a quiet records check on Sara that comes back clean
-* **Sara's own first zemi presentation (DECIDED):** her first two zemis (Ch 6 and Ch 7) were her seniors' presentations that she had to attend. From the following week she presents too. On the weekly schedule in the research notes, that means Thursday prep and a Friday zemi, which competes with the dream and romance for her attention.
-* Mei, the lab, the zemi and Sara's hectic schedule continue as the backdrop, so Sara has a life of her own
+**PROPOSED milestones** (use some, not all)
+
+* A first deliberate hand-hold.
+* A small funny echo of the dream (an autumn market or festival) that unsettles Sara a little.
+* One quiet moment where Gojo's guard cracks: where he lives, or a glimpse of his job.
+* One small misunderstanding while he is silent.
 
 Tone: warm, funny and romantic, with one or two dream details that are not Sara's.
 
@@ -947,17 +953,23 @@ Tone: warm, funny and romantic, with one or two dream details that are not Sara'
 
 ## **PART IV — Beneath the Surface**
 
-**Chapters TBD** (originally 16–20)
+**Chapters 16–19 and possibly beyond** (sara's uni is hectic; only weekends are their common schedule)
 
-(sara's uni is hectic \- only weekends are their common schedule)
+**DECIDED chapter plan**
 
-* The object's hijack: dream-Gojo turns cold; then Sara attacks him in a dream (**two or three unsettling dreams**)
-* Voices begin; "continue" arrives with the blindfold dream. See **Dream Escalation** and **Voices**.
-* Gojo **sees her cursed energy change** and takes care of her **before she speaks** ("If you want to share, my ears are all yours"); he takes her out and looks after her when she is frightened
-* Sara tells him. **PROPOSED:** she learns about curses here, out of necessity. Yuji's Ch 2 hint finally gets its follow-up.
+* **Ch 16 (Sara).** Monday at the flood-prone or tidal site: the broken vessel with a broken mirror of unique detailing; she shows her team; a beam of light hits her eyes and she faints. Dream: sweet again, her hand gently touches his blindfold, dream-Gojo is silent, and a different voice says "continue" over and over. She wakes in a tent. The team says the mirror is an old artifact and site work is halted as a possible heritage find. (Gojo POV for a short opening or close is optional.)
+* **Ch 17 (mostly Sara; Gojo's rush may open it).** Friday: the lab's monthly dinner and drinks (nomikai-style, casual). Gojo is her last call. He rushes off mid-joke with Yuji and Megumi, and the lab hands her over to him. He helps her come round and rides with her in a cab. She wakes thinking it is a dream, tries to squeeze his cheeks, pinches herself, and learns it is real. Banter. They try to name what they are: not tour guide and tourist, too close to be acquaintances, a bit different from ordinary friends. They end on "why think too much". Then she reaches her dorm. Keep Gojo in his gentle, joking register.
+* **Ch 18 (Sara).** The dream turns violent, with voices. She wakes and messages Gojo to meet the next day.
+* **Ch 19 (both).** They meet. She cannot say it. He notices her cursed energy change (a new, object-driven shift unlike the mild reaction in Part III), says "If you want to share, my ears are all yours". She explains. He consoles her and teases her about being in her dream.
+
+**Rest of Part IV (to plan, DECIDED unless marked)**
+
+* Two or three unsettling dreams in total, including attacking Gojo. See **Dream Escalation** and **Voices**.
+* Sara learns about curses here, out of necessity (**PROPOSED**).
 * Gojo traces her birthplace to the **monastery** and the seal. He now knows the link, but not the whole picture.
 * The romance deepens: real romantic interest, physical closeness, emotional trust. **They are not yet a couple.**
-* **Ends** with Sara meeting Yuji, depending on how the chapters fall. Gojo notices a change in both and starts investigating quietly.
+* The mirror gag: Mei asks Gojo how much he charges for a guided tour around Japan, which throws him off while Yuji and Sara laugh.
+* **OPEN:** the closing beat. The old line "ends with Sara meeting Yuji" no longer works, because Yuji already joins them at dinner in Part III. Decide what the beat is now (for example Yuji learning about her ability, or Sara learning what Yuji is).
 
 ---
 
@@ -1184,10 +1196,10 @@ To reinforce the theme “Everyone sees Gojo, the Strongest; Sara slowly sees Sa
 
 ## Decided by the author
 
-1. **Time span.** Parts I–II cover about one week. Part III covers about one month of Sara's life in Tokyo, mostly slice of life and cute romance.
+1. **Time span.** Parts I–II cover about one week. Part III covers about three weeks of Sara's life in Tokyo, pure slice of life and sweet romance.
 2. **First dream.** Whimsical, no "continue" voice. Sara is flustered that a man she has known for a week appears in it. The scene recurs for about a week, and she grows comfortable with it. She does not tell Gojo.
 3. **Dream logic.** The dreams turn unsettling only after Sara encounters the object. The object hijacks the existing sweet dream as a channel against Gojo. One or two dream details are not Sara's.
-4. **The object.** A **mirror that was a medium to Sukuna**, **split into two parts, each sealed in a porcelain jar.** One part is found at the **end of Part III** during Sara's fieldwork, at a **flood-prone or tidal area after heavy flooding or rain**, uncovered by the water and not dug up. The other part was buried **below a temple in South Korea**. Not a finger, not a cloth.
+4. **The object.** A **mirror that was a medium to Sukuna**, **split into two parts, each sealed in a porcelain jar.** One part is found at the **start of Part IV (Ch 16)** during Sara's fieldwork, at a **flood-prone or tidal area after heavy flooding or rain**, uncovered by the water and not dug up. The other part was buried **below a temple in South Korea**. Not a finger, not a cloth.
 5. **Sara's ability and its origin.** She is a "receiver". When she was a child, a **heavy flood after heavy rain** uncovered the buried Korean mirror and **broke it**. Sara touched it and was affected by its power. **The old monk who treated her gathered the pieces, sealed them and healed her.** Her parents were told she had a fever from getting wet in the rain. **Nobody knows Sara's power except that old monk.** Gojo senses something different about her from Ch 1 but does not know the cause until Part IV–V. By the end, Gojo and Yuji both know. **The old monk's role in the story is deferred; the author will think about it later.**
 6. **Part IV.** Two or three unsettling dreams, including attacking Gojo. Gojo sees her energy shift and takes care of her before she speaks. Romance deepens but they are not yet a couple. The Yuji meeting is at the end of Part IV. Gojo notices a change in both Sara and Yuji and investigates quietly.
 7. **Part V.** Gojo understands the whole issue. A Korea trip with Mei, Gojo, Yuji and Sara; Gojo already knows the monastery link and gets the complete picture there.
@@ -1199,6 +1211,11 @@ To reinforce the theme “Everyone sees Gojo, the Strongest; Sara slowly sees Sa
 13. **Timeline.** The story is set in 2018, beginning in September. Shibuya is delayed to 2021. The Kyoto Goodwill Event has not happened at the start.
 14. **Zemis.** Sara's first two zemis (Ch 6 and Ch 7) were her seniors' presentations that she had to attend. From the following week she presents too, on the weekly schedule in the research notes (Thursday prep, Friday zemi).
 15. **Sara's inspiration.** The clumsy, charismatic side of Sara is modelled on **Kang Ha Gi** from the K-drama *My Bias, My Boss*.
+16. **Part III structure (2026-10-20/21).** Part III is "The Sweetest Dreams", Ch 10–15 (6 chapters), pure slice of life. Ch 14 is split in two. The plan is in the Part III section.
+17. **Mirror discovery moved to Part IV.** The find, the faint and the first "continue" now open Part IV in Ch 16, so the Part III title matches its content.
+18. **Ch 17 scene.** A Friday monthly lab dinner and drinks; Gojo collects a drunk Sara; cab; cheek-squeeze and pinch; "what are we to each other?" ending on "why think too much".
+19. **Ch 10.** Gojo did not warn Sara that he would be busy or silent.
+20. **Part titles.** Part III: The Sweetest Dreams. Part IV: Beneath the Surface.
 
 ## Proposed and awaiting confirmation (working canon until you say otherwise)
 
@@ -1218,7 +1235,8 @@ To reinforce the theme “Everyone sees Gojo, the Strongest; Sara slowly sees Sa
 
 ## Open
 
-* Part III title and chapter count.
+* What the Part IV "Yuji meeting" beat is now (Yuji already appears in Part III).
+* Whether Part IV runs past Ch 19, and how many chapters.
 * Whether her control breaks at the end of Part V or the start of Part VI.
 * Where the climax takes place (Tokyo, Korea or both).
 * Who split the mirror, why, and how a Sukuna-linked mirror ended up in both Japan and Korea.

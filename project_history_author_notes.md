@@ -17,7 +17,7 @@
 >
 > **Dates:** a leading `~` means approximate (taken from project-memory timestamps). Correct them when you know the real date.
 >
-> **Last updated:** 2026-10-17
+> **Last updated:** 2026-10-21
 
 ---
 
@@ -25,6 +25,8 @@
 
 | Date | Session | Scope | Headline outcome |
 | --- | --- | --- | --- |
+| 2026-10-21 | Part III trimmed, Part IV reshaped | Parts III–IV | Ch 14 split in two; Part III is Ch 10–15 and stays sweet; the mirror discovery moves to Ch 16; Ch 17 nomikai scene |
+| 2026-10-20 | Part III and IV chapter plan | Ch 10–19 | Ch 11–19 beats set; Part III and IV titles proposed |
 | 2026-10-17 (started 2026-10-15) | File housekeeping and log format | Project files | `additional_info.md` dropped; this file becomes the planning log: newest first, one entry per session |
 | 2026-10-15 (early hours, IST) | Disaster and the old monk | Parts III–V | Flood after heavy rain; Korean mirror broken by the flood; old monk's role deferred |
 | 2026-10-15 | Chapter 10 revision | Ch 10 | Jimin line, Love Yourself tour detail, Mei beats |
@@ -63,11 +65,49 @@ Dates marked `~` come from project-memory timestamps. Please give the exact date
 4. **~2026-10-01:** the timeline, setting and research session.
 5. **~2026-10-07 to 10-10:** the Parts III–VI re-plan; which days it ran.
 6. **~2026-10-10:** the Chapter 9 session.
-7. **2026-10-14 and 2026-10-15:** whether the Part III chapter plan and the Chapter 10 revision were separate sessions.
+7. ~~2026-10-14 and 2026-10-15: whether the Part III chapter plan and the Chapter 10 revision were separate sessions.~~ Resolved: see the 2026-10-20 and 2026-10-21 entries.
+8. **Ch 10 publish date.** Confirm 2026-10-15 is the date it went up.
 
 ---
 
 ## Planning log
+
+### 2026-10-21 — Part III trimmed, Part IV reshaped
+
+**Context:** Claude reviewed the Ch 10–19 plan and flagged that "The Sweetest Dreams" did not fit a part that ended on the mirror find. The author agreed and restructured.
+
+**Decisions**
+* **[Author]** Ch 14 is split in two, so Part III is **Ch 10–15 (6 chapters)** and stays pure slice of life and sweet.
+* **[Author]** The mirror discovery moves out of Part III into Part IV (Ch 16), so each part's title matches its content.
+* **[Author]** Ch 17 is the "what are we to each other" conversation, set on a Friday at the lab's monthly dinner and drinks (nomikai-style, not strict). Sara is drunk or passes out; Gojo is her last call; he rushes off mid-joke with Yuji and Megumi; the lab hands her over; cab to her dorm; she wakes, thinks it is a dream, tries to squeeze his cheeks, pinches herself; banter; they conclude they are not tour guide/tourist, too close to be acquaintances, a bit different from normal friends; they end on "why think too much".
+* **[Author]** In Ch 10 Gojo did NOT warn Sara that he would be busy or silent.
+* **[Proposed]** Part III runs about three weeks, not a month (Sunday, two silent weeks, Saturday). Not yet confirmed by the author.
+* **[Proposed]** Reword "Gojo sees her cursed energy change" so that Ch 13–14 is a mild emotion-driven reaction and Ch 19 is a new object-driven shift.
+* **[Deferred]** What the "Yuji meeting" beat is now, since Yuji already joins them at dinner in Part III.
+
+**Replaces:** the 2026-10-14 line "Part III ends around Ch 14 or 15" and the Part III ending at the object find.
+
+### 2026-10-20 — Part III and IV chapter plan
+
+**Context:** Ch 10 was published. The author sent a Ch 11–19 outline and asked for comments on pacing, structure and content, how Part IV could be shaped, and names and summaries for Parts III and IV.
+
+**Chapter plan (as given)**
+* **Ch 11** Gojo's Sunday monologue (what he knows about Sara and how she thinks of him), banter with Yuji and Megumi, his side of the Ch 10 chat.
+* **Ch 12** Bits of her dream, slice of life, her first zemi, a week of silence from Gojo, then another dream.
+* **Ch 13** The dream continues; she is flustered by dream-Gojo's sweetness; two weeks without a reply (Yuji silent too); Gojo says he was busy with work; they plan to meet on Saturday.
+* **Ch 14 (Gojo POV, may be split in two)** What happened during the absence (a mission; Yuji's apparent death or the Goodwill Event were considered; kept vague in a monologue), the meetup, Sara flustered from the dream, Gojo senses and kills a curse and sees her cold sweats, heat and sneezing, a sweet note, Yuji joins for dinner.
+* **Ch 15** Monday, Sara at a tidal or flood-prone site; she sweats; finds a broken vessel with a broken mirror of unique detailing; shows her team; a beam of light hits her and she faints. *(Moved to Ch 16 on 2026-10-21.)*
+* **Ch 16** A sweet dream where her hand gently touches his blindfold; dream-Gojo is silent; a different voice says "continue"; she wakes in a tent; the team says it is an old artifact and site work is halted.
+* **Ch 17** She carries on and chats with Gojo about how to name their relationship. *(Scene set on 2026-10-21.)*
+* **Ch 18** The dream turns violent with voices; she wakes and messages Gojo to meet next day.
+* **Ch 19** They meet; she cannot say it; he notices her cursed energy change; "my ears are all yours"; she explains; he consoles her and teases her about being in her dream.
+
+**Claude's comments (summary):** the Part III ending carried too much; Ch 14 was too long; Ch 11 should include more of Gojo's hidden side; keep POV balance flexible; Part IV beats A–G.
+
+**Decisions**
+* **[Author]** Agreed with Claude's comments.
+* **[Proposed]** Titles: Part III "The Sweetest Dream(s)"; Part IV "Beneath the Surface".
+* **[Author]** Ch 14 may be split in two if it runs long (confirmed on 2026-10-21).
 
 ### 2026-10-17 (started 2026-10-15) — File housekeeping and log format
 
@@ -141,7 +181,7 @@ Dates marked `~` come from project-memory timestamps. Please give the exact date
 * **Ch 15** The find: she discovers a broken mirror in a broken jar; light reflects into her eyes; the dreams twist from that day. Part IV may open with the sweet dream ending on "continue".
 
 **Decisions**
-* **[Author]** Part III starts at **Ch 10** (not Ch 11, as the old bible said) and ends around **Ch 14 or 15**, depending on how the story runs. *(Memory says "runs 14 or 15 chapters" and also "Ch 10–15 (6 chapters)"; confirm which you mean.)*
+* **[Superseded]** ~~Part III starts at **Ch 10** (not Ch 11, as the old bible said) and ends around **Ch 14 or 15**, depending on how the story runs.~~ Now fixed as Ch 10–15 (6 chapters); see 2026-10-21.
 * **[Author]** Ch 10 is Sara's Sunday: a pre-dawn monologue in bed, brushing teeth, breakfast; she jots only a few key words of the dream; the line **"I don't have a crush on anyone real"** stays; a Mei chat that includes Mei's PhD, a drama/anime episode and prepping for the week; it ends on an evening chat with Gojo.
 * **[Author]** The field site uses a **tidal-surge reveal**.
 * **[Author]** Gojo shows no suspicion of her ability in Ch 11; he stays sweet. His tracking of her is revealed in Part IV.
