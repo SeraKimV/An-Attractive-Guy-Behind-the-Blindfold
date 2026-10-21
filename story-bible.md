@@ -1231,7 +1231,7 @@ To reinforce the theme “Everyone sees Gojo, the Strongest; Sara slowly sees Sa
 * The corrupted-mirror-shop imagery in Part IV.
 * The three-voices resolution in the climax.
 * The blindfold payoff (shown by choice, not command).
-* A working Part III title, such a  s *The Sweet Dream*.
+* A working Part III title, such as *The Sweet Dream*.
 
 ## Open
 
