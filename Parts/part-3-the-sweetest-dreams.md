@@ -1,10 +1,10 @@
 # Part \- 3 The Sweetest Dreams
 
-*\*(Chapters 10–15. Sara wakes the morning after her first dream, flustered and sure it was only a collage of shrines, lanterns and sweets. She tells herself she has no crush on anyone real. Then Gojo goes silent for two weeks, with no replies from him or from Yuji. Meanwhile she settles into Tokyo: her first zemi, Mei’s friendship and the dream returning in softer variations. When he finally answers, he says he was busy, and they plan to meet on Saturday. His side of the story shows what he knows about her, what he hides, and a curse he quietly destroys while she, unaware, reacts to it. The part ends on a sweet note and dinner with Yuji, with the sense that something warm is quietly building. Nothing is wrong yet.)\**
+*(Chapters 10–15. Sara wakes the morning after her first dream, flustered and sure it was only a collage of shrines, lanterns and sweets. She tells herself she has no crush on anyone real. Then Gojo goes silent for two weeks, with no replies from him or from Yuji. Meanwhile she settles into Tokyo: her first zemi, Mei’s friendship and the dream returning in softer variations. When he finally answers, he says he was busy, and they plan to meet on Saturday. His side of the story shows what he knows about her, what he hides, and a curse he quietly destroys while she, unaware, reacts to it. The part ends on a sweet note and dinner with Yuji, with the sense that something warm is quietly building. Nothing is wrong yet.)*
 
 ## Chapter 10 \- Things I Didn't Write Down
 
-## (Sara's POV)
+(Sara's POV)
 
 Sara lay in bed with her blanket still wrapped around her like a very sad burrito. The sky outside had that dull blue-grey of a morning that hadn't made up its mind. Mei kept snoring.
 
@@ -188,6 +188,333 @@ My dear readers😊,
 Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. I am trying to write the chapters whenever it is possible or I get time.
 
 I will be trying to publish 2 chapters every week \- on **Tuesday** and/or **Wednesday** around **8 PM UTC** **every week**.
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Chapter 11 \- Somewhere in It
+
+(Satoru's POV)
+
+Satoru was awake before his alarm, which was suspicious in itself.
+
+Grey Sunday light slid through the curtains. He lay with one arm behind his head and found the other hand held up in front of his face, fingers loosely curled, as if he'd been checking it for something.
+
+A wrist. One quick, startled flutter of a pulse under his thumb.
+
+He put the hand down.
+
+His phone sat on the nightstand, face-up and silent. He looked at it anyway.
+
+For years, that phone had rung for exactly one reason: someone needed something killed. Ijichi, Yaga, the old men upstairs with their polite voices and impossible requests. It buzzed, and he went, and somebody's night got a little less terrible. He'd never minded. He'd never thought of it as a sound that could mean anything else.
+
+Then a girl had asked for his number on a street corner, and now it could buzz with a complaint about her legs. Nobody dying. Nothing to fix.
+
+It was the only noise that phone made that he didn't have to answer. He kept catching himself wanting to.
+
+He got up to find breakfast, whistling something he refused to identify.
+
+\---
+
+Jujutsu High was quiet on Sundays, which meant Yuji and Megumi were sparring in the yard and Nobara, thankfully, was out shopping.
+
+"Gojo-sensei\!" Yuji dropped his guard and got immediately flattened by Megumi. "Ow. You're early."
+
+"I'm always on time."
+
+"You're never on time," Megumi said, stepping over him.
+
+Gojo held up a white box. "Kikufuku."
+
+Yuji sat up so fast he nearly hit his head. "Is that a bribe?"
+
+"A reward. For existing."
+
+"You're in a good mood," Megumi said, eyeing him. "That's never good."
+
+"Rude. I'm radiant." Gojo set the box on the engawa and flipped it open. "Help yourselves."
+
+Yuji took one, chewed, and then grinned with powdered sugar on his chin. "Sara texted me. She said you looked betrayed at the dorm desk."
+
+"I *was* betrayed. By an entire building."
+
+"She said you called it discrimination against handsome men."
+
+"Accurate."
+
+Megumi, who had stopped chewing, looked up. "Who's Sara?"
+
+"The girl from the street," Yuji said. "She's a friend of mine. From online."
+
+"A tourist I'm guiding," Gojo said, with great dignity.
+
+"Sensei's tourist," Megumi repeated slowly, and took a second kikufuku. "You don't guide anyone. You barely guide us."
+
+Yuji coughed powdered sugar into his fist, shoulders shaking. Gojo clutched his chest in a tragic gesture and went on eating, because it was a Sunday and he had a box of kikufuku and, for once, nothing to prove.
+
+\---
+
+His phone rang a little after three, the old kind of ring, while he was lounging on the roof of the main building like a man with no responsibilities.
+
+"Gojo-san," Ijichi said. "About tomorrow's assignment. It's the one out in the prefecture. I should warn you it may take a few days."
+
+"How many?"
+
+"Hard to say. Four, five days. It depends on how things develop."
+
+"Can't it wait?"
+
+"I'm afraid not, Gojo-san."
+
+He sighed. "Fine. Send me the file."
+
+He hung up and did the arithmetic. Four, five days. Monday through Friday. He'd be back by the weekend. He'd said weekend. She'd said weekend.
+
+He thought, briefly, about texting her: 
+
+*Busy this week, back by Saturday.* 
+
+It seemed unnecessary. It was a few days. She had a lab and a roommate and a thesis, and he'd see her on Saturday as he'd said.
+
+He thought no more about it.
+
+\---
+
+That evening he opened a chat with Sara and was almost embarrassed by how long he stayed there.
+
+He typed three openers, each cleverer than the last, deleted all of them, and sent the dumbest one.
+
+**Gojo**: *Legs alive?*
+
+She replied within a minute. He grinned at the screen like it was personal.
+
+No briefing. No casualty report. Just someone who'd been asked a stupid question and had answered it, and who, for the length of one conversation, knew him as a guy who liked kikufuku and lost at arcade games. He wasn't in a hurry to change that.
+
+**Sara:** *Barely. Filing a second complaint.*  
+**Gojo:** *Denied. They did great.*  
+**Gojo:** *Also, you said middle ground next time.*  
+**Sara:** *You remembered.*  
+**Gojo:** *I remember everything that could get me in trouble.*  
+**Sara:** *So where's the middle?*  
+**Gojo:** *Somewhere with dessert. That's all I've got.*  
+**Sara:** *That's a terrible plan.*  
+**Gojo:** *It's a flexible plan.*
+
+They were halfway through the argument when the replies stopped. A long gap. He watched the little dots appear, disappear, appear again, and then nothing, and then, entirely out of the blue:
+
+**Sara:** *I have lab work all week. Weekend?*
+
+Satoru tapped the phone against his chin.
+
+Whatever she'd started to say, it hadn't been that. He knew the shape of an abandoned sentence. He didn't push. She'd never pushed him, not once, not about the neighbourhood or the blindfold or the high-level babysitting. It seemed only fair.
+
+**Gojo:** *Weekend. I'll find the dessert.*
+
+He thought of her at her desk, in that dorm room, chin in her hand, staring at something that wasn't her screen, and typed before he could stop himself.
+
+**Gojo:** *Go to sleep, Ms Kang. You look like someone who has Thoughts.*
+
+It was a guess. He was a very good guesser. Her *Goodnight, Gojo* came back a little too fast.
+
+He typed the next two words, looked at them for longer than they deserved, and sent them anyway.
+
+**Gojo:** *Sweet dreams.*
+
+Then, because he'd just promised a girl a dessert and had no idea where the middle was, he opened another chat.
+
+**Gojo:** *Itadori. Where's the middle between Shirokane and Hongo?*  
+**Yuji:** *???*  
+**Yuji:** *You don't know??*  
+**Gojo:** *I know. I'm testing you.*  
+**Yuji:** *Is it for Sara? Hmm....*  
+**Yuji:** *She takes the Namboku line, right? Iidabashi. Kagurazaka has tons of sweet places*  
+**Gojo:** *That was my plan.*  
+**Yuji:** *Sure it was*
+
+It was part of the job. Any decent guide would have done the same.
+
+He put the phone down on his chest and stared at the ceiling.
+
+Saturday, then. Something sweet, somewhere halfway, a girl who tripped over stair edges and ate like she was taking notes.
+
+For once, he was looking forward to a weekend.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Author's Note:**
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. And thank you for waiting this week even thought I had delay in the episodes
+
+I will be publishing 2 chapters every week \- on **Tuesday** and/or **Wednesday** around **8 PM UTC** **every week**. I will be publishing them on time from next week onwards
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+## Chapter 12 \- Exactly as Promised
+
+(Sara's POV)
+
+Monday went exactly the way Mondays were supposed to go.
+
+The Namboku Line was packed, the lab smelled like coffee and old paper, and Sara spent the morning on a paper about tidal flats she had, for once, actually absorbed. By noon she had a plan for the week, a list of figures to rebuild, and absolutely no messages.
+
+That was fine. Friends didn't text every day. She texted her parents maybe twice a month.
+
+She checked her phone once, around three, purely to see the time. Then she slid it under a stack of printouts, where it couldn't embarrass her.
+
+That night she fell asleep over her figures with the desk lamp still on.
+
+\---
+
+*Wait. I didn't fall?*
+
+The lane tilts, her foot finds nothing, and then a hand closes around hers, warm and sure, and pulls her upright like she weighs nothing at all.
+
+The crowd is still surging, but it isn't surging at them anymore. It's surging *after* them.
+
+*Why is everyone chasing us?\!*
+
+"Run, Ms Kang\!"
+
+Gojo is laughing. He is actually laughing, head tipped back, white hair catching the lantern light, running with her hand in his like this is the best idea anyone has ever had. Behind them a wave of paper lanterns and festival masks bobs down the lane, a hundred shouting strangers, none of them looking remotely dangerous and all of them somehow terrifying.
+
+*I'm in a kimono\! I can't run in a kimono\!*
+
+She runs anyway, sandals slapping the stones, tassels swinging from her wrist.
+
+"Left\!" he calls, and yanks her sideways behind a stall heaped with candied fruit, sugar shells glittering like jewels. He pulls her down beside him, one finger pressed to his lips.
+
+The crowd thunders past. Someone shouts, someone else answers, and then the noise rolls away down the lane like a tide going out.
+
+Sara's heart is hammering. Gojo's shoulders are shaking with silent laughter, and when she glares at him he starts humming, low and slow, a tune she has never heard before. It's strangely calming. Her breathing slows to match it.
+
+*What song is that?*
+
+"Hungry?" he whispers, and presses a paper bag into her hands. Warm castella bites, golden and soft, still faintly steaming.
+
+She eats one. It's very good.
+
+They sit behind the stall like two kids who've stolen something, passing the bag back and forth, and when the coast is finally clear they wander out into the lane again. The lanterns are lower now. The night smells of roasted chestnuts.
+
+"You have crumbs," Gojo says.
+
+"I do not."
+
+"Right here."
+
+His thumb rubs a smear of sugar and crumbs across her cheek, in a gesture that is not remotely helpful.
+
+"You made it worse\!"
+
+"Did I?" He sounds so pleased with himself. "Hold still, Ms Kang."
+
+*Oh no. This is nice.*
+
+\---
+
+On Tuesday morning she woke up smiling. It took a full minute for her brain to catch up and find that embarrassing.
+
+The tune stayed with her through the commute. She hummed a few bars under her breath, then into a music-recognition app: no BTS, no anime opening, no lullaby it could find. Nothing.
+
+*I made it up*, she decided. *My brain is a very creative place.*
+
+She was almost sure that was true.
+
+\---
+
+The week passed in the ordinary way weeks do.
+
+On Thursday, Mei survived her presentation, and they celebrated with a convenience-store cake and a bottle of sparkling juice shared out of two coffee mugs. "You were here when I lost my mind," Mei said solemnly. "I'll remember that." Sara spent the rest of the evening on her own slides.
+
+On Friday morning she sent a message before she could think about it.
+
+**Sara:** *Presenting today. Wish me luck?*
+
+It sat there. No reply. No "Read" mark either. She told herself he was just asleep somewhere, or in a meeting, or being eaten by a vending machine, and put the phone away.
+
+\---
+
+Her first zemi presentation was five minutes long, and by the end of it she had never been so aware of her own hands.
+
+Five slides. Five minutes. Her whole PhD, boiled down to a handful of bullet points and one diagram of a river mouth she'd redrawn four times. The lab sat in a loose half-circle, laptops open, senior students in the front rows, Professor Hayashi quiet at the back with his arms folded.
+
+"I'm interested in what happens after the water leaves," Sara said, and was relieved that her voice came out steady. "Most models treat the bed as fixed before an event. But repeated surges cut deeper during the retreat, and that part is poorly quantified."
+
+She clicked to the last slide. "That's the gap I want to study."
+
+Silence. Then a second-year doctoral student in the third row raised a hand.
+
+"Why drawdown?" he asked, in English, politely. "Why not the inundation phase? It's better documented."
+
+*I know this.*
+
+She *did* know this. She'd written a whole paragraph about it in her proposal.
+
+"Because the inundation phase is already well documented," she said, "and that leaves a gap. The retreat phase can put substantial shear stress on the bed and strip sediment as the water recedes, but most data sets stop recording once the water starts to go back."
+
+Her voice shook slightly on the last word. She hated that.
+
+The student nodded slowly. "That's reasonable," he said, and wrote something down.
+
+From the back of the room, Hayashi said just one word. "Good."
+
+That was all. Sara sat down with her hands still trembling and the strange, slightly ridiculous feeling that she had answered correctly and had still somehow managed to doubt it.
+
+After the session, Hayashi stopped by her desk. "The lab monitors a river mouth on the Tohoku coast," he said, in the same mild tone he used for everything. "If the typhoons cooperate this season, I'd like you on the resurvey team. You will be going there regularly"
+
+"Yes. Of course. Thank you."
+
+He nodded and was gone before she had time to say anything more intelligent.
+
+She said no to the lab dinner afterward. She said it politely, citing exhaustion, and everyone nodded as if exhaustion were a legitimate excuse. It mostly was.
+
+\---
+
+On Saturday, the weekend arrived exactly as promised, and nothing else did.
+
+She didn't wait around for him. She did laundry, finished her figures, and went for a long walk around the neighborhood with her earphones in. But the phone stayed in her pocket the whole time, and every few minutes she caught herself thinking about Kagurazaka, a place she'd never even been to, and a dessert nobody had named.
+
+*They never set a time,* she reminded herself. *It was a loose plan.*
+
+Back in the room, she sent a different message.
+
+**Sara:** *Yuji, what's your sensei up to? Has he been eaten by a vending machine?*
+
+Nothing. Not even the little bubble.
+
+Mei glanced over from her laptop. "Who are you texting?"
+
+"Yuji."
+
+"About Mr Eyemask Tour Guide?"
+
+"About a lost tour guide." Sara put the phone on the desk. "He's busy. Tour guides have lives."
+
+"Mm," Mei said, in the voice of someone who had decided to be nice about it.
+
+That night, Sara opened the blue notebook and wrote the date. *Saturday. Finished figures. Walked a lot. Ate ramen.* She looked at the page for a while.
+
+She did not write *no messages.*
+
+She closed the notebook, turned the phone face-down beside it, and told herself that was a perfectly normal way to end a day.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Author's Note:**
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. And thank you for waiting this week even thought I had delay in the episodes
+
+I will be publishing 2 chapters every week \- on **Tuesday** and/or **Wednesday** around **8 PM UTC** **every week**. I will be publishing them on time from next week onwards
 
 Looking forward to see you all.
 
