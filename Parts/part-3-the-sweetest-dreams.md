@@ -522,3 +522,186 @@ Thank you 🤗
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+## Chapter 13 \- Iced, No Sugar
+
+(Sara's POV)
+
+*We're still walking?*
+
+The lane unrolls ahead of them, lantern after lantern, each one a little dimmer than the last. Her fingers are still tangled in his, and neither of them has mentioned it.
+
+The crowd has thinned to a few couples and a cat on a windowsill. The stalls are drawing their curtains. Somewhere ahead, water is talking quietly to itself.
+
+*A river. There's a river in this dream. Of course there is.*
+
+They cross a small wooden bridge. At the far end a tea stall glows under a single paper lantern, its keeper nodding over a kettle. Gojo steers her to the bench and holds up two fingers without a word.
+
+Two cups arrive, tall, beaded with cold, ice clinking.
+
+"Iced," Gojo says. "No sugar. I remember."
+
+Sara takes a sip. Roasted, bitter, wonderful.
+
+*That's my Americano. Wearing a barley tea costume.*
+
+Gojo has started humming again, that slow tune, tapping time against his knee. This time something in it catches, a familiar shape she can't quite place.
+
+*I know this. Where do I know this from?*
+
+Then it slips away, like a name on the tip of the tongue.
+
+"Sorry to keep you waiting," he says quietly. It isn't a tease. His thumb finds the beads of her hairpin and sets them swinging.
+
+*I wasn't waiting,* she thinks. *I wasn't.*
+
+The water hushes. The lantern sways. And the dream goes on being the nicest place she has ever been.
+
+\---
+
+Sara woke on Sunday with her face in the pillow and her ears burning.
+
+*Sorry to keep you waiting.*
+
+She hadn't been waiting. Her brain had apparently written dialogue for him and put an apology in it, which was presumptuous of her brain.
+
+She got up and went to find breakfast, since Mei was already gone from her bed.
+
+\---
+
+Mei was in the common-room kitchen, standing over two pots on the induction stoves with the focus of a chemist.
+
+"Sit," she said. "Today you eat like a Singaporean."
+
+She had smuggled a jar of Kaya in her suitcase, a green-gold coconut jam that she spread thick on toast with a slab of cold butter. Then came the eggs: soft-boiled, cracked into a saucer, with soy sauce and a dusting of white pepper.
+
+"You dip the toast," Mei explained. "No, not like that. Like this."
+
+Sara dipped. Chewed. Stopped.
+
+"Okay," she said. "This is a crime. And I love it."
+
+"I know." Mei was smug. "My grandmother would be proud."
+
+It was a very good morning. They ate too much, and talked about nothing, and Sara checked her phone twice without noticing she was doing it. Mei watched the second time. She didn't say anything. She just pushed the last piece of toast across the table.
+
+\---
+
+On Tuesday night, a little after nine, her phone buzzed in the lab.
+
+She was alone at her desk, rebuilding a figure for the fourth time. She almost didn't look.
+
+**Gojo:** *Sorry I've been quiet. Work's eating me alive. I haven't forgotten the dessert. Hope your week's kinder than mine.*  
+**Gojo:** *Do not replace me with another tour guide.*
+
+Sara read it once. Then twice. Then a third time, slowly, as though it might change.
+
+She wasn't angry. That was the strange part. She'd half-expected to be, and instead there was only a loosening somewhere under her ribs, the feeling of a window opening in a room she hadn't noticed was stuffy.
+
+She typed, deleted, typed again.
+
+**Sara:** *Applications are open. Also, do tour guides get overtime? Take care of yourself.*
+
+She watched the screen for a full minute. No reply.
+
+*Fine,* she thought. *He's busy.* It was enough that it had come at all.
+
+Still nothing from Yuji. She stared at the empty thread, then shrugged. *Whatever Yuji's mysterious school does when it's busy, it clearly does it to everyone.*
+
+She went back to her figure and finished it in half the time.
+
+\---
+
+On Wednesday, she was drying a mug in the common room when the weather forecast came on the old TV in the corner.
+
+A smiling presenter pointed at a white swirl far out in the Pacific. "...a typhoon developing to the southeast. It may approach the eastern coast later this month, though the track is still uncertain."
+
+Sara paused with the towel in her hand.
+
+*A typhoon. Eastern coast.* She thought of Hayashi's river mouth, the resurvey, the *if the typhoons cooperate.*
+
+Then she shrugged. Storms changed course all the time. Her own models were proof of that.
+
+She hung up the mug and went to bed.
+
+\---
+
+*Is it raining?*
+
+They're back on the bench at the tea stall, cups half-empty, when the first drop lands on the lantern with a soft *tap.*
+
+*Wait. Am I in this dream again?*
+
+Then another. Then a hundred.
+
+"Run," Gojo says, grinning, and pulls her up.
+
+They race back across the bridge, her sandals slapping the wet boards, laughter spilling out of her before she can stop it. He's holding his sleeve over her head like an umbrella, which is useless and ridiculous and she loves it. They duck beneath the deep eaves of a shuttered sweets shop, breathless, shoulders touching.
+
+The rain drums on the roof. The lanterns blur to gold smears on the wet stones. Her hair is dripping, the hairpin is crooked, and he is laughing so hard that he has to lean a hand against the wall.
+
+*His hair is wet. That is not fair.*
+
+They stand there, close, listening to the water.
+
+"I like this," Gojo says, when the laughter finally settles. He isn't looking at the street. He's looking at her, and his hand finds hers, warm and sure. "Standing somewhere I don't have to be anywhere else."
+
+*Oh.*
+
+*Oh, what is this weather, and this feeling? It makes me want to stay here.*
+
+\---
+
+She woke with her palm warm again.
+
+She pressed it flat against the sheet. It did not help.
+
+\---
+
+On Friday evening, her phone lit up on her desk, and she nearly dropped it.
+
+**Gojo:** *Back. Mostly in one piece.*  
+**Gojo:** *Saturday?*
+
+Sara stared. *Back.* Just like that, after almost two weeks.
+
+She didn't ask where he'd been. She noticed that she didn't ask.
+
+She typed a very cool reply, something about being generously free on Saturday, and deleted all of it.
+
+**Sara:** *Okay.*  
+**Gojo:** *Kagurazaka. Exact spot tomorrow morning.*  
+**Sara:** *Why morning?*  
+**Gojo:** *Suspense. A good guide has a sense of theatre.*  
+**Sara:** *You're impossible.*  
+**Gojo:** *Thank you.*
+
+She put the phone down very carefully, as if it might go off.
+
+Across the room, Mei looked up from her laptop. "Finally," she said, and went back to typing.
+
+"I didn't say anything."
+
+"You didn't have to."
+
+Sara opened her desk drawer. The dark wood hairpin lay where she'd left it, beads curled on their thin chain, and for a moment she held it without moving.
+
+*It's just a hairpin,* she told herself.
+
+She set it on the desk, next to the blue notebook, where she would see it in the morning. And she did not think about what that meant.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Author's Note:**
+
+My dear readers😊,
+
+Thank you for taking your precious time to read my 1st story, which I have been planning for more than a year. And thank you for waiting this week even thought I had delay in the episodes
+
+I will be publishing only **1 chapter per week** going forward for few weeks, due to some personal reasons \- on **Tuesday** and/or **Wednesday** around **8 PM UTC** **every week**. Thank you for understanding and your support.
+
+Looking forward to see you all.
+
+Thank you 🤗
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
